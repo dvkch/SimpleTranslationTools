@@ -6,6 +6,7 @@ Collection of tools to easily find strings to translate in Objective-C source co
 
 Ruby script that will (or at least should) find string literals in Objective-C source code and print an Xcode-compatible log line to remind you to translate it.
 
+![Screenshot](https://raw.githubusercontent.com/dvkch/SimpleTranslationTools/master/xcode_warnings.png)
 
 
 ##SYTranslation.h
